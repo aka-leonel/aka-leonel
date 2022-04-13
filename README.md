@@ -16,12 +16,10 @@
 
 ---
 
-### 🏀 About Me :
-- 📚 I am a IT student from Buenos Aires, Argentina. 
-
-- :telescope: Currently learning cloud computing fundamentals (AWS, Elasticsearch)
-
-- :zap: In my free time, I like to play basketball with my friends.
+### :zap: About Me :
+- 📚 I am an IT student from Buenos Aires, Argentina. 
+- :telescope: Currently learning cloud computing fundamentals (AWS & Elasticsearch)
+- 🏀 In my free time I like to play basketball.
 - 🖤 I love philosophy, cartoons and videogames.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Leonel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leonelgodoy495/)
 
