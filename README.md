@@ -49,12 +49,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="Microsoft SQL Server" width="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL Workbench" width="40" />
   
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" />
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-plain.svg" alt="Fedora OS" width="40" />  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu OS" width="40" />
-  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-plain.svg" alt="Fedora OS" width="40" />   
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash" width="40" />
   
