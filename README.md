@@ -53,15 +53,15 @@
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash" width="40" />
   
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" />
-  
-  
-  
-  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" />  
 </div>
 
+---
 
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aka-leonel&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aka-leonel&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **aka-leonel/aka-leonel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
