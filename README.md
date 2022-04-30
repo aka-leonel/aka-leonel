@@ -18,7 +18,7 @@
 
 ### :zap: About Me :
 - 📚 I am an IT student from Buenos Aires, Argentina. 
-- :telescope: Currently learning cool cloud stuff (AWS, Elasticsearch & Kibana)
+- 🐍 Currently learning python
 - 🏀 In my free time I like to play basketball.
 - 🖤 I love philosophy, cartoons and videogames.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Leonel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leonelgodoy495/)
