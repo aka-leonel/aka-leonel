@@ -19,8 +19,7 @@
 ### :zap: About Me :
 - 📚 I am an IT student from Buenos Aires, Argentina. 
 - 🐍 Currently learning python
-- 🏀 In my free time I like to play basketball.
-- 🖤 I love philosophy, cartoons and videogames.
+- 🏀 In my free time I like playing basketball.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Leonel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leonelgodoy495/)
 
 ---
@@ -33,7 +32,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" />
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C programming language" width="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" width="40" />
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C sharp" width="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" />
