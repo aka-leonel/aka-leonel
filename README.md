@@ -19,7 +19,7 @@
 ### :zap: About Me :
 - 📚 I am an IT student from Buenos Aires, Argentina. 
 - 🐍 Currently learning python
-- 🏀 In my free time I like playing basketball.
+- 🏀 I like playing basketball.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Leonel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leonelgodoy495/)
 
 ---
