@@ -17,34 +17,20 @@
 ---
 
 ### :zap: About Me :
-- 📚 I am an IT student from Buenos Aires, Argentina. 
-- 🐍 Currently learning python
-- 🏀 I like playing basketball.
+- 📚 I am an IT student from Argentina. 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Leonel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leonelgodoy495/)
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
-<div>  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt ="HTML5" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap 5" width="40" />
+<div>    
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" />
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C programming language" width="40" />
-  
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C sharp" width="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" />
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" />  
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" alt="NumPy" width="40" />
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="Microsoft SQL Server" width="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL Workbench" width="40" />
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-plain.svg" alt="Fedora OS" width="40" />   
-  
+ 
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash" width="40" />
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" />  
